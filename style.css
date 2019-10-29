@@ -1,0 +1,278 @@
+
+h1 {
+    color: #e6ffe6;
+    text-align: center; 
+    position: relative;  
+}
+
+body {
+	height: 100vh;
+    background: linear-gradient(to top, #ccffcc 0%, #009999 100%);
+}
+
+
+.guzhengBody {
+    background: linear-gradient(to bottom left, #cc9966 0%, #996633 87%);
+	border-radius: 25px;
+	max-width: 1200px;
+	position: relative;
+	margin:0 auto;
+	line-height: 1.4em;
+}
+
+#llOne img{
+  height:2px;
+  width: 83%;
+  position: relative;
+}
+
+#llOne img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+#llTwo img{
+  height:2px;  width: 83%;
+  position: relative;
+}
+
+#llTwo img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+#llThree img{
+  height:2px;
+    width: 83%;
+  position: relative;
+}
+
+#llThree img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+#llFive img{
+  height:2px;
+  width: 83%;
+  position: relative;
+}
+
+#llFive img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+
+#llSix img{
+  height:2px;
+  width: 83%;
+  position: relative;
+}
+
+#llSix img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+
+#lOne img{
+  height:2px;
+    width: 83%;
+  position: relative;
+}
+
+#lOne img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+#lTwo img{
+  height:2px;
+    width: 83%;
+  position: relative;
+}
+
+#lTwo img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+#lThree img{
+  height:2px;
+  width: 83%;
+  position: relative;
+}
+
+#lThree img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+#lFive img{
+  height:2px;
+  width: 83%;
+  position: relative;
+}
+
+#lFive img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+
+#lSix img{
+  height:2px;
+  width: 83%;
+  position: relative;
+}
+
+#lSix img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+#one img{
+  height:2px;
+  width: 83%;
+  position: relative;
+}
+
+#one img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+#two img{
+  height:2px;
+  width: 83%;
+  position: relative;
+}
+
+#two img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+#three img{
+  height:2px;
+  width: 83%;
+  position: relative;
+}
+
+#three img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+#five img{
+  height:2px;
+  width: 83%;
+  position: relative;
+}
+
+#five img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+
+#six img{
+  height:2px;
+  width: 83%;
+  position: relative;
+}
+
+#six img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+#hOne img{
+  height:2px;
+  width: 83%;
+  position: relative;
+}
+
+#hOne img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+#hTwo img{
+  height:2px;
+  width: 83%;
+  position: relative;
+}
+
+#hTwo img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+#hThree img{
+  height:2px;
+  width: 83%;
+  position: relative;
+}
+
+#hThree img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+#hFive img{
+  height:2px;
+  width: 83%;
+  position: relative;
+}
+
+#hFive img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+
+#hSix img{
+  height:2px;
+  width: 83%;
+  position: relative;
+}
+
+#hSix img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}
+
+#hhOne img{
+  height:2px;
+    width: 83%;
+  position: relative;
+}
+
+
+#hhOne img:hover{
+  height:5px;
+    width: 83%;
+  position: relative;
+}

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="utf-8" content="width=device-width, initial-scale=1.0">
+	<title>GUZHENG</title>
+	<link href="style.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Mada&display=swap" rel="stylesheet">
+</head>
+<body>
+
+        <h1 style="font-family:Mada font-size:10vw;"> Virtual Guzheng </h1>
+
+
+ 	<div class="guzhengBody">  
+
+	    <section id="llOne">
+	      <img src="white_string.png" alt="string_1" onclick="playString('llOne.mp3');">
+	    </section>
+
+	    <section id="llTwo">
+	      <img src="white_string.png" alt="string_2" width="1000px" onclick="playString('llTwo.mp3');">
+	    </section>    
+
+	    <section id="llThree">
+	      <img src="white_string.png" alt="string_3" width="1000px" onclick="playString('llThree.mp3');">
+	    </section>    
+
+	    <section id="llFive">
+	      <img src="blue_string.png" alt="string_5" width="1000px" onclick="playString('llFive.mp3');">
+	    </section>    
+
+	    <section id="llSix">
+	      <img src="white_string.png" alt="string_6" width="1000px" onclick="playString('llSix.mp3');">
+	    </section>
+
+	    <section id="lOne">
+	      <img src="white_string.png" alt="string_1" width="1000px" onclick="playString('lOne.mp3');">
+	    </section>
+
+	    <section id="lTwo">
+	      <img src="white_string.png" alt="string_2" width="1000px" onclick="playString('lTwo.mp3');">
+	    </section>    
+
+	    <section id="lThree">
+	      <img src="white_string.png" alt="string_3" width="1000px" onclick="playString('lThree.mp3');">
+	    </section>    
+
+	    <section id="lFive">
+	      <img src="blue_string.png" alt="string_5" width="1000px" onclick="playString('lFive.mp3');">
+	    </section>    
+
+	    <section id="lSix">
+	      <img src="white_string.png" alt="string_6" width="1000px" onclick="playString('lSix.mp3');">
+	    </section>
+
+
+
+	    <section id="one">
+	      <img src="white_string.png" alt="string_1" width="1000px" onclick="playString('one.mp3');">
+	    </section>
+
+	    <section id="two">
+	      <img src="white_string.png" alt="string_2" width="1000px" height="2px"onclick="playString('two.mp3');">
+	    </section>    
+
+	    <section id="three">
+	      <img src="white_string.png" alt="string_3" width="1000px" onclick="playString('three.mp3');">
+	    </section>    
+
+	    <section id="five">
+	      <img src="blue_string.png" alt="string_5" width="1000px" onclick="playString('five.mp3');">
+	    </section>    
+
+	    <section id="six">
+	      <img src="white_string.png" alt="string_6" width="1000px" onclick="playString('six.mp3');">
+	    </section>
+
+
+
+	    <section id="hOne">
+	      <img src="white_string.png" alt="string_1" width="1000px" onclick="playString('hOne.mp3');">
+	    </section>
+
+	    <section id="hTwo">
+	      <img src="white_string.png" alt="string_2" width="1000px" height="2px"onclick="playString('hTwo.mp3');">
+	    </section>    
+
+	    <section id="hThree">
+	      <img src="white_string.png" alt="string_3" width="1000px" onclick="playString('hThree.mp3');">
+	    </section>    
+
+	    <section id="hFive">
+	      <img src="blue_string.png" alt="string_5" width="1000px" onclick="playString('hFive.mp3');">
+	    </section>    
+
+	    <section id="hSix">
+	      <img src="white_string.png" alt="string_6" width="1000px" onclick="playString('hSix.mp3');">
+	    </section>
+
+	   	<section id="hhOne">
+	      <img src="white_string.png" alt="string_1" width="1000px" onclick="playString('hhOne.mp3');">
+	    </section>
+
+
+	</div>
+
+	<script type="text/javascript">
+
+function playString(path) {
+  var audioElement = document.createElement('audio');
+  audioElement.setAttribute('src', path);
+  audioElement.play();
+}
+
+</script>
+
+</body>
+</html>
